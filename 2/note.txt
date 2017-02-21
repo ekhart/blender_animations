@@ -1,0 +1,8 @@
+N - menu boczne
+set background:
+http://blender.stackexchange.com/questions/118/how-do-i-set-a-background-image-while-i-am-editing
+5 - orto
+
+tab - edit mode
+a - zaznacz all
+w, subdivide smooth - z cube robi siê siatka
