@@ -6,3 +6,9 @@ http://blender.stackexchange.com/questions/118/how-do-i-set-a-background-image-w
 tab - edit mode
 a - zaznacz all
 w, subdivide smooth - z cube robi siê siatka
+
+occlude background geometry
+https://blenderartists.org/forum/showthread.php?262044-Occlude-Background-Geometry 
+
+4. modyfikatory, multires, subdivide
+shading: smooth
