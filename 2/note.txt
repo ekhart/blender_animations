@@ -12,3 +12,8 @@ https://blenderartists.org/forum/showthread.php?262044-Occlude-Background-Geomet
 
 4. modyfikatory, multires, subdivide
 shading: smooth
+
+wstêpne kszta³towanie siatki:
+sculpt, pêdzel, blob: dodaj/odejmij - rozmiar + si³a
+
+http://blender.stackexchange.com/questions/7310/switch-between-sculpting-brushes
